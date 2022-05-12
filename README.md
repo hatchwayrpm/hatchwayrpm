@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hatchwayrpm. I made this account specifically for my Hatchways assessment.
+- 👋 Hi, I’m @hatchwayrpm. I made this account specifically for my Hatchways' project interview.
 
 - 👀 I’m interested in solving the human puzzle
 
